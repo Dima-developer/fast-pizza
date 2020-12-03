@@ -1,0 +1,104 @@
+{
+  "pizzas": [
+    {
+      "id": 0,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-palermo.jpg?alt=media&token=50c20c2d-943d-4dfb-83de-32ab083fbe68",
+      "name": "Пицца Палермо",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 125,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-4-meat.jpg?alt=media&token=feec585d-11a5-4fef-bcfb-4f963b87e56f",
+      "name": "Пицца 4 мяса",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 150,
+      "category": 1,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-4-cheez.jpg?alt=media&token=c7e2248d-e183-4d52-959c-b5f0ea980fa5",
+      "name": "Пицца 4 сыра",
+      "types": [0],
+      "sizes": [26, 40],
+      "price": 145,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-condadiana.jpg?alt=media&token=cf1aa95a-abdd-4569-b500-3a8e69d8d647",
+      "name": "Пицца Контадина",
+      "types": [1],
+      "sizes": [26, 30, 40],
+      "price": 155,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-karbonara.jpg?alt=media&token=abe9ff22-72bc-465b-9bfa-fdc2edfc8816",
+      "name": "Пицца Карбонара",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 135,
+      "category": 3,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-karne.jpg?alt=media&token=27f532da-f2aa-4d1b-b86f-9b919a51c662",
+      "name": "Пицца Карне",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 115,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-ortolana.jpg?alt=media&token=51119256-5719-42db-8248-e118af0a9def",
+      "name": "Пицца Ортолано",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 130,
+      "category": 1,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-kaliari.jpg?alt=media&token=5ad0e203-8068-454f-b748-a75be0b6c98b",
+      "name": "Пицца Кальяри",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 140,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-barselona.jpg?alt=media&token=216db272-00da-428a-962c-ff6507adb946",
+      "name": "Пицца Барселона",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 145,
+      "category": 5,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fast-pizza-13acc.appspot.com/o/img-pizza%2Fpizza-5-cheez.jpg?alt=media&token=fa53869f-3d99-49a1-8394-a0975239a7f3",
+      "name": "Пицца 5 сыров",
+      "types": [0, 1],
+      "sizes": [26, 30, 40],
+      "price": 165,
+      "category": 5,
+      "rating": 10
+      }
+    ]
+}
