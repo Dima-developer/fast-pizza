@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import React from 'react';
 import Categories from "./Categories";
 import SortPopup from "./SortPopup";
@@ -27,14 +28,17 @@ const Home = () => {
 
     const onSelectCategory = React.useCallback((index) => {
         dispatch(setCategory(index));
+        // eslint-disable-next-line
     }, []);
 
     const onSelectSortType = React.useCallback((type) => {
         dispatch(setSortBy(type));
+        // eslint-disable-next-line
     }, []);
 
     React.useEffect(() => {
         dispatch(fetchPizzas(category, sortBy));
+        // eslint-disable-next-line
     }, [category, sortBy]);
 
     const handleAddPizzaToCart = obj => {
